@@ -1,149 +1,185 @@
 {
- "users": [
+  "users": [
+    {
+      "email": "rosita@gmail.com",
+      "userName": "Rosa Gomez",
+      "type": "client",
+      "password": "1234",
+      "showsBuyed": [],
+      "modifiedAt": 1719235319176,
+      "id": 2
+    },
+    {
+      "email": "elpepe@gmail.coms",
+      "userName": "Pepito Juarez",
+      "password": "jujuy",
+      "showsBuyed": [],
+      "type": "client",
+      "modifiedAt": 1719235330734,
+      "id": 3
+    },
+    {
+      "email": "juani@gmail.com",
+      "userName": "Juan Lopez",
+      "password": "1234",
+      "showsBuyed": [],
+      "type": "client",
+      "modifiedAt": 1719235356644,
+      "id": 4
+    },
+    {
+      "email": "fercho@gmail.com",
+      "userName": "Gaston Moro",
+      "password": "1234",
+      "showsBuyed": [],
+      "type": "client",
+      "modifiedAt": 1719235370198,
+      "id": 5
+    },
+    {
+      "email": "wuawua@gmail.com",
+      "userName": "Fabri Lattante",
+      "password": "1234",
+      "showsBuyed": [],
+      "type": "client",
+      "modifiedAt": 1719235382545,
+      "id": 6
+    },
+    {
+      "email": "nachi.tortjuani@gmail.com",
+      "userName": "Juan Torti",
+      "password": "1234",
+      "showsBuyed": [],
+      "type": "client",
+      "modifiedAt": 1719235393201,
+      "id": 0.9956068028884879
+    },
+    {
+      "email": "marianito@gmail.com",
+      "userName": "Mariano Dimonaco",
+      "password": "1234",
+      "showsBuyed": [],
+      "type": "client",
+      "modifiedAt": 1719235419475,
+      "id": 0.47861972584130763
+    },
+    {
+      "email": "Loldom@gmail.com",
+      "userName": "Lola Domi",
+      "password": "1234",
+      "showsBuyed": [],
+      "type": "client",
+      "modifiedAt": 1719235453267,
+      "id": 0.4143738098623191
+    },
+    {
+      "email": "Mjosua@gmail.com",
+      "userName": "Maria Jose",
+      "password": "1234",
+      "showsBuyed": [],
+      "type": "client",
+      "modifiedAt": 1719235471049,
+      "id": 0.3684899358389506
+    },
+    {
+      "id": 0.8716299641271139,
+      "userName": "Ignacia Juy",
+      "email": "NachaJUy@hotmail.com",
+      "password": "jujuy",
+      "showsBuyed": [],
+      "type": "client",
+      "createdAt": 1719235582976,
+      "modifiedAt": 1719235582976
+    }
+  ],
+  "movies": [
     {
       "id": 1,
-      "userName": "Fabri",
-      "email": "Fabri@gmail.com",
-      "password": "12345",
-      "showsBuyed": [],
-      "type": "client"
+      "title": "Shrek",
+      "image": "https://es.web.img3.acsta.net/pictures/14/03/06/10/13/369709.jpg",
+      "rating": 5,
+      "runTime": 89,
+      "shows": [{}, {}, {}]
     },
     {
       "id": 2,
-      "userName": "Rosa",
-      "email": "rosita@gmail.com",
-      "password": "12345",
-      "showsBuyed": [],
-      "type": "client"
+      "title": "Oppenheimer",
+      "image": "https://www.rosariocine.com.ar/webfiles/rosariocine/productos/5132/1.jpg",
+      "rating": 5,
+      "runTime": 180,
+      "shows": [{}, {}, {}]
     },
     {
       "id": 3,
-      "userName": "Pepito",
-      "email": "elpepe@gmail.com",
-      "password": "12345",
-      "showsBuyed": [],
-      "type": "client"
+      "title": "Hostel",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY1NDA3ODM1OV5BMl5BanBnXkFtZTcwMDM5NzEzMQ@@._V1_.jpg",
+      "rating": 4,
+      "runTime": 94,
+      "shows": [{}, {}, {}]
     },
     {
       "id": 4,
-      "userName": "Juani",
-      "email": "juani@gmail.com",
-      "password": "12345",
-      "showsBuyed": [],
-      "type": "client"
+      "title": "Saw",
+      "image": "https://m.media-amazon.com/images/I/61Dr1uVEjWL._AC_UF894,1000_QL80_.jpg",
+      "rating": 4,
+      "runTime": 103,
+      "shows": [{}, {}, {}]
     },
     {
       "id": 5,
-      "userName": "Gaston",
-      "email": "fercho@gmail.com",
-      "password": "12345",
-      "showsBuyed": [],
-      "type": "client"
+      "title": "Tierra de osos",
+      "image": "https://play-lh.googleusercontent.com/-7Gl_ipbT697kSJdJb8R_xyEACLSHMjGEXtvIpFSRxaqbXaJiWlu-rJ6VHmRgQaoCKFB=w240-h480-rw",
+      "rating": 3.5,
+      "runTime": 85,
+      "shows": [{}, {}, {}]
     },
     {
       "id": 6,
-      "userName": "Tomi",
-      "email": "wuawua@gmail.com",
-      "password": "12345",
-      "showsBuyed": [],
-      "type": "client"
+      "title": "Toy Story",
+      "image": "https://es.web.img3.acsta.net/pictures/14/03/17/10/20/509771.jpg",
+      "rating": 4.8,
+      "runTime": 81,
+      "shows": [{}, {}, {}]
+    },
+    {
+      "id": 7,
+      "title": "El señor de los anillos",
+      "image": "https://es.web.img3.acsta.net/medias/nmedia/18/89/67/45/20061512.jpg",
+      "rating": 4.9,
+      "runTime": 178,
+      "shows": [{}, {}, {}]
+    },
+    {
+      "id": 8,
+      "title": "Anabelle",
+      "image": "https://www.ecartelera.com/carteles/7900/7931/002_m.jpg",
+      "rating": 3.2,
+      "runTime": 109,
+      "shows": [{}, {}, {}]
+    },
+    {
+      "id": 9,
+      "title": "Titanes del Pacífico",
+      "image": "https://i.pinimg.com/736x/17/e1/44/17e144b2e0e49c835fb4092321fefeea.jpg",
+      "rating": 3.7,
+      "runTime": 131,
+      "shows": [{}, {}, {}]
+    },
+    {
+      "id": 10,
+      "title": "John Wick",
+      "image": "https://es.web.img3.acsta.net/pictures/14/10/01/14/18/135831.jpg",
+      "rating": 4.5,
+      "runTime": 101,
+      "shows": [{}, {}, {}]
+    },
+    {
+      "id": 11,
+      "title": "Cars",
+      "image": "https://es.web.img2.acsta.net/pictures/14/05/28/11/24/435900.jpg",
+      "rating": 4.3,
+      "runTime": 117,
+      "shows": [{}, {}, {}]
     }
-  ],
-
-"movies" :[
-  {
-    "id": 1,
-    "title": "Shrek",
-    "image": "https://es.web.img3.acsta.net/pictures/14/03/06/10/13/369709.jpg",
-    "rating": 5.0,
-    "runTime": 89,
-    "shows": [{}, {}, {}]
-  },
-  {
-    "id": 2,
-    "title": "Oppenheimer",
-    "image":
-      "https://www.rosariocine.com.ar/webfiles/rosariocine/productos/5132/1.jpg",
-    "rating": 5.0,
-    "runTime": 180,
-    "shows": [{}, {}, {}]
-  },
-  {
-    "id": 3,
-    "title": "Hostel",
-    "image":
-      "https://m.media-amazon.com/images/M/MV5BMTY1NDA3ODM1OV5BMl5BanBnXkFtZTcwMDM5NzEzMQ@@._V1_.jpg",
-    "rating": 4.0,
-    "runTime": 94,
-    "shows": [{}, {}, {}]
-  },
-  {
-    "id": 4,
-    "title": "Saw",
-    "image":
-      "https://m.media-amazon.com/images/I/61Dr1uVEjWL._AC_UF894,1000_QL80_.jpg",
-    "rating": 4.0,
-    "runTime": 103,
-   "shows": [{}, {}, {}]
-  },
-  {
-    "id": 5,
-    "title": "Tierra de osos",
-    "image":
-      "https://play-lh.googleusercontent.com/-7Gl_ipbT697kSJdJb8R_xyEACLSHMjGEXtvIpFSRxaqbXaJiWlu-rJ6VHmRgQaoCKFB=w240-h480-rw",
-    "rating": 3.5, 
-    "runTime": 85, 
-    "shows": [{}, {}, {}]
-  },
-  {
-    "id": 6,
-    "title": "Toy Story",
-    "image": "https://es.web.img3.acsta.net/pictures/14/03/17/10/20/509771.jpg",
-    "rating": 4.8, 
-    "runTime": 81, 
-    "shows": [{}, {}, {}]
-  },
-  {
-    "id": 7,
-    "title": "El señor de los anillos",
-    "image":
-      "https://es.web.img3.acsta.net/medias/nmedia/18/89/67/45/20061512.jpg",
-    "rating": 4.9, 
-    "runTime": 178, 
-    "shows": [{}, {}, {}]
-  },
-  {
-    "id": 8,
-    "title": "Anabelle",
-    "image": "https://www.ecartelera.com/carteles/7900/7931/002_m.jpg",
-    "rating": 3.2, 
-    "runTime": 109, 
-    "shows": [{}, {}, {}]
-  },
-  {
-    "id": 9,
-    "title": "Titanes del Pacífico",
-    "image":
-      "https://i.pinimg.com/736x/17/e1/44/17e144b2e0e49c835fb4092321fefeea.jpg",
-    "rating": 3.7, 
-    "runTime": 131, 
-    "shows": [{}, {}, {}]
-  },
-  {
-    "id": 10,
-    "title": "John Wick",
-    "image": "https://es.web.img3.acsta.net/pictures/14/10/01/14/18/135831.jpg",
-    "rating": 4.5, 
-    "runTime": 101, 
-    "shows": [{}, {}, {}]
-  },
-  {
-    "id": 11,
-    "title": "Cars",
-    "image": "https://es.web.img2.acsta.net/pictures/14/05/28/11/24/435900.jpg",
-    "rating": 4.3, 
-    "runTime": 117, 
-    "shows": [{}, {}, {}]
-  }
-]
+  ]
 }
