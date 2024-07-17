@@ -1,34 +1,24 @@
 {
   "users": [
     {
-      "id": 0.8716299641271139,
-      "userName": "Ignacia Juy",
-      "email": "NachaJUy@hotmail.com",
-      "password": "jujuy",
-      "showsBuyed": [],
-      "type": "client",
-      "createdAt": 1719235582976,
-      "modifiedAt": 1719235582976
-    },
-    {
       "id": 0.7854428820030552,
-      "userName": "Juan Torti",
-      "email": "nachi.tortjuani@gmail.com",
+      "userName": "Juani Torti",
+      "email": "nachi.tortjuani@hotmail.com",
       "password": "Pupito123",
       "showsBuyed": [],
       "type": "client",
       "createdAt": 1719236399208,
-      "modifiedAt": 1719236399208
+      "modifiedAt": 1720636884394
     },
     {
       "id": 0.03299844809352326,
-      "userName": "Fabri Lattante",
-      "email": "Fablat@hotmail.com",
-      "password": "tuGatitaDeNoche",
+      "userName": "Fabriii Lattante",
+      "email": "Fabrilat@hotmail.com",
+      "password": "123",
       "showsBuyed": [],
       "type": "client",
       "createdAt": 1719236446445,
-      "modifiedAt": 1719236446445
+      "modifiedAt": 1720993709044
     },
     {
       "id": 0.13617717462716583,
@@ -101,28 +91,47 @@
       "modifiedAt": 1719236830697
     },
     {
-      "id": 0.8595919109628807,
-      "userName": "Mariano Blando",
-      "email": "Marian@gmail.com",
-      "password": "Yuna2003",
+      "id": 0.8989655234641247,
+      "userName": "JuaniTorti",
+      "email": "JuanitaFemboy@gmail.com",
+      "password": "TuMimosa123",
+      "showsBuyed": 0,
+      "type": "client",
+      "createdAt": 1719248764980,
+      "modifiedAt": 1719248764980
+    },
+    {
+      "id": 0.05394722088048187,
+      "userName": "fabriiii",
+      "email": "fabriiiiii@gmail.com",
+      "password": "123321",
+      "showsBuyed": 0,
+      "type": "client",
+      "createdAt": 1719248883306,
+      "modifiedAt": 1719248883306
+    },
+    {
+      "id": 0.1795137829666964,
+      "userName": "Machuse12",
+      "email": "Machuse@gmail.com",
+      "password": "machuse1",
       "showsBuyed": [],
       "type": "client",
-      "createdAt": 1719237002680,
-      "modifiedAt": 1719237002680
+      "createdAt": 1721237769321,
+      "modifiedAt": 1721237769321
     }
   ],
-  "movies": [
+  "movies":
+  [
     {
       "id": 1,
       "title": "Shrek",
       "image": "https://es.web.img3.acsta.net/pictures/14/03/06/10/13/369709.jpg",
-      "rating": 5,
+      "rating": 4.9,
       "runTime": 89,
-      "shows": [
-        {},
-        {},
-        {}
-      ]
+      "description": "Shrek (2001) - Una aventura animada irreverente que mezcla humor audaz con una historia de autodescubrimiento y amor verdadero. Únete a Shrek, un ogro cascarrabias, y su fiel compañero, un burro parlante, en su misión para rescatar a la princesa Fiona y restaurar la paz en su pantano. Esta película icónica desafía los estereotipos de los cuentos de hadas mientras celebra la importancia de la autenticidad y el valor de ser uno mismo. Prepárate para reír y emocionarte en esta obra maestra animada que encanta a todas las edades.",
+      "shows": [{}, {}, {}],
+      "modifiedAt": 1721238214067
     },
     {
       "id": 2,
@@ -130,11 +139,8 @@
       "image": "https://www.rosariocine.com.ar/webfiles/rosariocine/productos/5132/1.jpg",
       "rating": 5,
       "runTime": 180,
-      "shows": [
-        {},
-        {},
-        {}
-      ]
+      "description": "Descubre la fascinante historia de J. Robert Oppenheimer, el científico que lideró el Proyecto Manhattan durante la Segunda Guerra Mundial. Conocido como el 'Padre de la Bomba Atómica', Oppenheimer se ve envuelto en un dilema ético mientras desarrolla una de las armas más poderosas de la historia. La película explora su compleja personalidad, desde su brillantez científica hasta sus profundas reflexiones morales sobre las implicaciones de sus descubrimientos. ¿Qué precio está dispuesto a pagar un hombre por la ciencia y la seguridad nacional? Descubre el lado humano detrás del mito en esta cautivadora película biográfica.",
+      "shows": [{}, {}, {}]
     },
     {
       "id": 3,
@@ -142,11 +148,9 @@
       "image": "https://m.media-amazon.com/images/M/MV5BMTY1NDA3ODM1OV5BMl5BanBnXkFtZTcwMDM5NzEzMQ@@._V1_.jpg",
       "rating": 4,
       "runTime": 94,
-      "shows": [
-        {},
-        {},
-        {}
-      ]
+      "description": "Sumérgete en el oscuro mundo de 'Hostel', donde tres amigos estadounidenses viajan a Europa en busca de aventura y se encuentran atrapados en una red clandestina de tortura y terror. En un remoto y aparentemente idílico pueblo europeo, descubren un hostal aparentemente perfecto donde las fantasías se convierten en pesadillas. Dirigida por Eli Roth, esta película de horror explora los límites de la depravación humana y el precio del deseo insaciable de adrenalina. Prepárate para una experiencia intensa y perturbadora que te hará cuestionar qué tan lejos estarías dispuesto a llegar por emociones extremas.",
+      "shows": [{}, {}, {}],
+      "modifiedAt": 1721177170083
     },
     {
       "id": 4,
@@ -154,11 +158,8 @@
       "image": "https://m.media-amazon.com/images/I/61Dr1uVEjWL._AC_UF894,1000_QL80_.jpg",
       "rating": 4,
       "runTime": 103,
-      "shows": [
-        {},
-        {},
-        {}
-      ]
+      "description": "En 'Saw', dos hombres despiertan encadenados en un baño y se encuentran en un juego mortal orquestado por un enigmático asesino conocido como Jigsaw. A medida que desentrañan sus propios oscuros secretos y luchan por sobrevivir, se enfrentan a decisiones imposibles que desafían su moralidad y su voluntad de vivir. Esta película de suspense psicológico te mantendrá al borde de tu asiento mientras Jigsaw prueba los límites de lo que los seres humanos están dispuestos a hacer para salvar sus vidas",
+      "shows": [{}, {}, {}]
     },
     {
       "id": 5,
@@ -166,11 +167,8 @@
       "image": "https://play-lh.googleusercontent.com/-7Gl_ipbT697kSJdJb8R_xyEACLSHMjGEXtvIpFSRxaqbXaJiWlu-rJ6VHmRgQaoCKFB=w240-h480-rw",
       "rating": 3.5,
       "runTime": 85,
-      "shows": [
-        {},
-        {},
-        {}
-      ]
+      "description": "En 'Tierra de Osos', sigue a Kenai, un joven guerrero de una tribu nativa americana que es transformado en oso por los espíritus como castigo por su arrogancia. A medida que lucha por sobrevivir en la vasta y majestuosa tierra salvaje de Alaska, Kenai forma una profunda conexión con Koda, un pequeño oso huérfano. Juntos, emprenden un emocionante viaje de autodescubrimiento y amistad que desafiará sus creencias y cambiará sus destinos para siempre. Esta película animada de Disney ofrece una emotiva exploración de la conexión entre la naturaleza y el espíritu humano.",
+      "shows": [{}, {}, {}]
     },
     {
       "id": 6,
@@ -178,11 +176,8 @@
       "image": "https://es.web.img3.acsta.net/pictures/14/03/17/10/20/509771.jpg",
       "rating": 4.8,
       "runTime": 81,
-      "shows": [
-        {},
-        {},
-        {}
-      ]
+      "description": "En 'Toy Story', conoce a Woody, un valiente vaquero de juguete que se convierte en el líder no oficial de los juguetes de Andy. Cuando Buzz Lightyear, un moderno y sofisticado juguete espacial, llega a la colección de Andy, desencadena una serie de eventos que llevan a Woody y Buzz a una aventura inolvidable para regresar a casa. A través de situaciones cómicas y emocionales, 'Toy Story' celebra la amistad, el valor y la importancia de aceptar quiénes somos. Esta película de Pixar no solo captura la imaginación de los niños, sino que también toca los corazones de todas las edades con su mensaje atemporal sobre el poder del compañerismo y la lealtad.",
+      "shows": [{}, {}, {}]
     },
     {
       "id": 7,
@@ -190,11 +185,8 @@
       "image": "https://es.web.img3.acsta.net/medias/nmedia/18/89/67/45/20061512.jpg",
       "rating": 4.9,
       "runTime": 178,
-      "shows": [
-        {},
-        {},
-        {}
-      ]
+      "description": "Embárcate en una epopeya fantástica en 'El Señor de los Anillos', donde Frodo Bolsón, un humilde hobbit, se embarca en una misión épica para destruir un anillo maligno antes de que caiga en manos del oscuro Señor Oscuro Sauron. Acompañado por un grupo diverso de aliados, incluidos elfos, enanos y humanos, Frodo enfrenta peligros inimaginables mientras lucha contra las fuerzas del mal que amenazan con destruir la Tierra Media. Dirigida por Peter Jackson y basada en la obra maestra de J.R.R. Tolkien, esta trilogía cinematográfica es una saga monumental de valentía, amistad y sacrificio que ha cautivado a generaciones.",
+      "shows": [{}, {}, {}]
     },
     {
       "id": 8,
@@ -202,23 +194,18 @@
       "image": "https://www.ecartelera.com/carteles/7900/7931/002_m.jpg",
       "rating": 3.2,
       "runTime": 109,
-      "shows": [
-        {},
-        {},
-        {}
-      ]
+      "description": "En 'Annabelle', una pareja espera ansiosamente la llegada de su primer hijo, pero su felicidad se ve rápidamente eclipsada por una serie de eventos sobrenaturales perturbadores desencadenados por una muñeca de aspecto inocente llamada Annabelle. Pronto descubren que han desatado fuerzas oscuras que amenazan no solo sus vidas, sino también su cordura. Basada en una historia real, esta película de horror te sumerge en un mundo de terror psicológico donde cada sombra esconde un secreto aterrador y cada rincón oscuro podría albergar un peligro mortal.",
+      "shows": [{}, {}, {}]
     },
     {
       "id": 9,
       "title": "Titanes del Pacífico",
       "image": "https://i.pinimg.com/736x/17/e1/44/17e144b2e0e49c835fb4092321fefeea.jpg",
-      "rating": 3.7,
+      "rating": 5,
       "runTime": 131,
-      "shows": [
-        {},
-        {},
-        {}
-      ]
+      "description": "En 'Titanes del Pacífico', el mundo enfrenta una amenaza sin precedentes cuando enormes criaturas conocidas como Kaijus emergen del océano y comienzan a atacar ciudades costeras. En respuesta, la humanidad desarrolla Jaegers, gigantescos robots de combate controlados por dos pilotos que unen sus mentes en un enlace neural. Con el destino de la humanidad en juego, dos pilotos improbables deben dejar de lado sus diferencias y pilotar un Jaeger legendario para enfrentarse a los Kaijus en una batalla final que decidirá el futuro del planeta. Prepárate para una experiencia visual impresionante y emocionante en esta película de acción y ciencia ficción dirigida por Guillermo del Toro.",
+      "shows": [{}, {}, {}],
+      "modifiedAt": 1721237334328
     },
     {
       "id": 10,
@@ -226,11 +213,8 @@
       "image": "https://es.web.img3.acsta.net/pictures/14/10/01/14/18/135831.jpg",
       "rating": 4.5,
       "runTime": 101,
-      "shows": [
-        {},
-        {},
-        {}
-      ]
+      "description": "En 'John Wick', descubre la historia de un ex-asesino a sueldo retirado que se ve obligado a regresar al mundo de la violencia después de que unos criminales sin escrúpulos le quiten lo más preciado que tenía: su perro y su automóvil. Con una habilidad letal y una determinación implacable, John Wick se embarca en una búsqueda frenética de venganza a través de los bajos fondos de Nueva York. Dirigida por Chad Stahelski, esta película de acción te sumerge en un frenesí de tiroteos coreografiados y peleas cuerpo a cuerpo que desafían los límites de la resistencia humana.",
+      "shows": [{}, {}, {}]
     },
     {
       "id": 11,
@@ -238,11 +222,28 @@
       "image": "https://es.web.img2.acsta.net/pictures/14/05/28/11/24/435900.jpg",
       "rating": 4.3,
       "runTime": 117,
-      "shows": [
-        {},
-        {},
-        {}
-      ]
+      "description": "En 'Cars', conoce a Rayo McQueen, un joven y ambicioso coche de carreras que sueña con ganar la prestigiosa Copa Pistón. Después de quedar atrapado en la pequeña ciudad de Radiator Springs, Rayo aprende lecciones de vida inesperadas de sus pintorescos residentes, incluyendo al legendario Hudson Hornet y la encantadora Sally. A través de aventuras emocionantes y desafíos de amistad, Rayo descubre el verdadero significado del éxito y la importancia de los lazos personales en esta emocionante película animada de Disney-Pixar.",
+      "shows": [{}, {}, {}]
+    },
+    {
+      "id": 12,
+      "title": "In time",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/4b/In_Time_poster.jpg",
+      "rating": 4.6,
+      "runTime": 109,
+      "description": "En 'In Time', explora un mundo distópico donde el tiempo es la moneda de cambio y la vida humana se mide en minutos. Will Salas, un joven de los barrios bajos, descubre un secreto que podría cambiar el equilibrio de poder entre los ricos inmortales y los pobres que luchan por sobrevivir día a día. Con la ayuda de Sylvia Weis, una heredera rebelde, Will se embarca en una audaz misión para derribar el sistema corrupto y devolver el tiempo a quienes más lo necesitan. Dirigida por Andrew Niccol, esta película de ciencia ficción ofrece una reflexión provocativa sobre la desigualdad social y el valor del tiempo en un mundo donde cada segundo cuenta.",
+      "shows": [{}, {}, {}],
+      "modifiedAt": 1721229890190
+    },
+    {
+      "id": 13,
+      "title": "Batman",
+      "image": "https://m.media-amazon.com/images/I/81igpHay0AL._AC_UF894,1000_QL80_.jpg",
+      "rating": 4,
+      "runTime": 120,
+      "description": "En 'Batman', sumérgete en las sombrías calles de Gotham City, donde Bruce Wayne, un multimillonario con un pasado oscuro, se transforma en el legendario Caballero Oscuro después de presenciar el brutal asesinato de sus padres en su infancia. Equipado con una mente aguda, habilidades de combate excepcionales y una tecnología avanzada, Batman se convierte en un vigilante dedicado a proteger la ciudad del crimen y la corrupción. Sin embargo, su lucha personal contra criminales despiadados como el Joker, Catwoman y Bane, lo lleva al límite mientras lucha por mantener el equilibrio entre la justicia y la venganza. Dirigida por varios cineastas a lo largo de los años, la saga de Batman es un icono del cine de superhéroes que explora temas universales de redención, identidad y el poder del heroísmo en la oscuridad.",
+      "shows": "",
+      "modifiedAt": 1721229852947
     }
   ]
 }
