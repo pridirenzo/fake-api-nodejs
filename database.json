@@ -165,7 +165,33 @@
       "rating": 5,
       "runTime": 180,
       "description": "Descubre la fascinante historia de J. Robert Oppenheimer, el científico que lideró el Proyecto Manhattan durante la Segunda Guerra Mundial. Conocido como el 'Padre de la Bomba Atómica', Oppenheimer se ve envuelto en un dilema ético mientras desarrolla una de las armas más poderosas de la historia. La película explora su compleja personalidad, desde su brillantez científica hasta sus profundas reflexiones morales sobre las implicaciones de sus descubrimientos. ¿Qué precio está dispuesto a pagar un hombre por la ciencia y la seguridad nacional? Descubre el lado humano detrás del mito en esta cautivadora película biográfica.",
-      "shows": "",
+      "shows": [
+        {
+          "showId": 1,
+          "movie": "Oppenheimer",
+          "time": "15:00"
+        },
+        {
+          "showId": 2,
+          "movie": "Oppenheimer",
+          "time": "18:15"
+        },
+        {
+          "showId": 3,
+          "movie": "Oppenheimer",
+          "time": "20:00"
+        },
+        {
+          "showId": 4,
+          "movie": "Oppenheimer",
+          "time": "21:45"
+        },
+        {
+          "showId": 5,
+          "movie": "Oppenheimer",
+          "time": "00:30"
+        }
+      ],
       "modifiedAt": 1721302745384
     },
     {
@@ -175,6 +201,33 @@
       "rating": 4,
       "runTime": 94,
       "description": "Sumérgete en el oscuro mundo de 'Hostel', donde tres amigos estadounidenses viajan a Europa en busca de aventura y se encuentran atrapados en una red clandestina de tortura y terror. En un remoto y aparentemente idílico pueblo europeo, descubren un hostal aparentemente perfecto donde las fantasías se convierten en pesadillas. Dirigida por Eli Roth, esta película de horror explora los límites de la depravación humana y el precio del deseo insaciable de adrenalina. Prepárate para una experiencia intensa y perturbadora que te hará cuestionar qué tan lejos estarías dispuesto a llegar por emociones extremas.",
+      "shows": [
+        {
+          "showId": 1,
+          "movie": "Hostel",
+          "time": "15:00"
+        },
+        {
+          "showId": 2,
+          "movie": "Hostel",
+          "time": "18:15"
+        },
+        {
+          "showId": 3,
+          "movie": "Hostel",
+          "time": "20:00"
+        },
+        {
+          "showId": 4,
+          "movie": "Hostel",
+          "time": "21:45"
+        },
+        {
+          "showId": 5,
+          "movie": "Hostel",
+          "time": "00:30"
+        }
+      ],
       "modifiedAt": 1721303117259
     },
     {
