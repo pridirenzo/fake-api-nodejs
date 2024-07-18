@@ -5,7 +5,7 @@
       "userName": "Juani Torti",
       "email": "nachi.tortjuani@hotmail.com",
       "password": "Pupito123",
-      "showsBuyed": [],
+      "boughtShows": [],
       "type": "client",
       "createdAt": 1719236399208,
       "modifiedAt": 1720636884394
@@ -15,7 +15,7 @@
       "userName": "Fabriii Lattante",
       "email": "Fabrilat@hotmail.com",
       "password": "123",
-      "showsBuyed": [],
+      "boughtShows": [],
       "type": "client",
       "createdAt": 1719236446445,
       "modifiedAt": 1720993709044
@@ -25,7 +25,7 @@
       "userName": "Rosa Gomez",
       "email": "Rosita@gmail.com",
       "password": "Alvear1862",
-      "showsBuyed": [],
+      "boughtShows": [],
       "type": "client",
       "createdAt": 1719236489261,
       "modifiedAt": 1719236489261
@@ -35,7 +35,7 @@
       "userName": "Pepito Juarez",
       "email": "elpepe@gmail.coms",
       "password": "sapitoJuarez",
-      "showsBuyed": [],
+      "boughtShows": [],
       "type": "client",
       "createdAt": 1719236517888,
       "modifiedAt": 1719236517888
@@ -45,7 +45,7 @@
       "userName": "Maria Jose",
       "email": "Mjosua@hotmail.com",
       "password": "Modaloca",
-      "showsBuyed": [],
+      "boughtShows": [],
       "type": "client",
       "createdAt": 1719236552462,
       "modifiedAt": 1719236552462
@@ -55,7 +55,7 @@
       "userName": "Gaston Moro",
       "email": "fercho@gmail.com",
       "password": "Cerveza94",
-      "showsBuyed": [],
+      "boughtShows": [],
       "type": "client",
       "createdAt": 1719236595831,
       "modifiedAt": 1719236607092
@@ -65,7 +65,7 @@
       "userName": "Lola Lolita",
       "email": "Lolita@gmail.com",
       "password": "star97",
-      "showsBuyed": [],
+      "boughtShows": [],
       "type": "client",
       "createdAt": 1719236647453,
       "modifiedAt": 1719236647453
@@ -75,7 +75,7 @@
       "userName": "Juana Dearco",
       "email": "Juanita@hotmail.com",
       "password": "vllc2023",
-      "showsBuyed": [],
+      "boughtShows": [],
       "type": "client",
       "createdAt": 1719236702314,
       "modifiedAt": 1719237695482
@@ -85,7 +85,7 @@
       "userName": "Gabriel Golzman",
       "email": "GabiGol@gmail.com",
       "password": "LosAprueboSeguro",
-      "showsBuyed": [],
+      "boughtShows": [],
       "type": "admin",
       "createdAt": 1719236830697,
       "modifiedAt": 1719236830697
@@ -95,7 +95,7 @@
       "userName": "JuaniTorti",
       "email": "JuanitaFemboy@gmail.com",
       "password": "TuMimosa123",
-      "showsBuyed": 0,
+      "boughtShows": 0,
       "type": "client",
       "createdAt": 1719248764980,
       "modifiedAt": 1719248764980
@@ -105,7 +105,7 @@
       "userName": "fabriiii",
       "email": "fabriiiiii@gmail.com",
       "password": "123321",
-      "showsBuyed": 0,
+      "boughtShows": 0,
       "type": "client",
       "createdAt": 1719248883306,
       "modifiedAt": 1719248883306
@@ -115,7 +115,7 @@
       "userName": "Machuse12",
       "email": "Machuse@gmail.com",
       "password": "machuse1",
-      "showsBuyed": 0,
+      "boughtShows": 0,
       "type": "client",
       "createdAt": 1721237769321,
       "modifiedAt": 1721237769321
