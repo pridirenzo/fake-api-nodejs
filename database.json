@@ -5,10 +5,19 @@
       "userName": "Juani Torti",
       "email": "nachi.tortjuani@hotmail.com",
       "password": "Pupito123",
-      "boughtShows": [],
+      "boughtShows": [
+        {
+          "movieTitle": "Shrek",
+          "showtime": "20:15"
+        },
+        {
+          "movieTitle": "Toy Story",
+          "showtime": "18:15"
+        }
+      ],
       "type": "client",
       "createdAt": 1719236399208,
-      "modifiedAt": 1720636884394
+      "modifiedAt": 1721327008026
     },
     {
       "id": 0.03299844809352326,
@@ -85,10 +94,23 @@
       "userName": "Gabriel Golzman",
       "email": "GabiGol@gmail.com",
       "password": "LosAprueboSeguro",
-      "boughtShows": [],
+      "boughtShows": [
+        {
+          "movieTitle": "Shrek",
+          "showtime": "19:00"
+        },
+        {
+          "movieTitle": "Toy Story",
+          "showtime": "21:45"
+        },
+        {
+          "movieTitle": "Tierra de osos",
+          "showtime": "00:30"
+        }
+      ],
       "type": "admin",
       "createdAt": 1719236830697,
-      "modifiedAt": 1719236830697
+      "modifiedAt": 1721308946268
     },
     {
       "id": 0.8989655234641247,
