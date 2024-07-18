@@ -106,11 +106,19 @@
         {
           "movieTitle": "Tierra de osos",
           "showtime": "00:30"
+        },
+        {
+          "movieTitle": "Hostel",
+          "showtime": "20:00"
+        },
+        {
+          "movieTitle": "Oppenheimer",
+          "showtime": "18:15"
         }
       ],
       "type": "admin",
       "createdAt": 1719236830697,
-      "modifiedAt": 1721308946268
+      "modifiedAt": 1721331179506
     },
     {
       "id": 0.8989655234641247,
@@ -214,7 +222,7 @@
           "time": "00:30"
         }
       ],
-      "modifiedAt": 1721302745384
+      "modifiedAt": 1721333363383
     },
     {
       "id": 3,
@@ -285,7 +293,8 @@
           "movie": "Saw",
           "time": "00:30"
         }
-      ]
+      ],
+      "modifiedAt": 1721333592731
     },
     {
       "id": 5,
