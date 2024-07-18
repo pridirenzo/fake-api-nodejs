@@ -53,12 +53,12 @@
     {
       "id": 0.028059814872943845,
       "userName": "Gaston Moro",
-      "email": "fercho@gmail.com",
+      "email": "ferchoo@gmail.com",
       "password": "Cerveza94",
       "boughtShows": [],
       "type": "client",
       "createdAt": 1719236595831,
-      "modifiedAt": 1719236607092
+      "modifiedAt": 1721301726958
     },
     {
       "id": 0.5235743282765293,
@@ -165,34 +165,8 @@
       "rating": 5,
       "runTime": 180,
       "description": "Descubre la fascinante historia de J. Robert Oppenheimer, el científico que lideró el Proyecto Manhattan durante la Segunda Guerra Mundial. Conocido como el 'Padre de la Bomba Atómica', Oppenheimer se ve envuelto en un dilema ético mientras desarrolla una de las armas más poderosas de la historia. La película explora su compleja personalidad, desde su brillantez científica hasta sus profundas reflexiones morales sobre las implicaciones de sus descubrimientos. ¿Qué precio está dispuesto a pagar un hombre por la ciencia y la seguridad nacional? Descubre el lado humano detrás del mito en esta cautivadora película biográfica.",
-      "modifiedAt": 1721296200188,
-      "shows": [
-        {
-          "showId": 1,
-          "movie": "Oppenheimer",
-          "time": "14:30"
-        },
-        {
-          "showId": 2,
-          "movie": "Oppenheimer",
-          "time": "16:15"
-        },
-        {
-          "showId": 3,
-          "movie": "Oppenheimer",
-          "time": "17:30"
-        },
-        {
-          "showId": 4,
-          "movie": "Oppenheimer",
-          "time": "19:45"
-        },
-        {
-          "showId": 5,
-          "movie": "Oppenheimer",
-          "time": "21:00"
-        }
-      ]
+      "shows": "",
+      "modifiedAt": 1721302745384
     },
     {
       "id": 3,
@@ -200,35 +174,7 @@
       "image": "https://m.media-amazon.com/images/M/MV5BMTY1NDA3ODM1OV5BMl5BanBnXkFtZTcwMDM5NzEzMQ@@._V1_.jpg",
       "rating": 4,
       "runTime": 94,
-      "description": "Sumérgete en el oscuro mundo de 'Hostel', donde tres amigos estadounidenses viajan a Europa en busca de aventura y se encuentran atrapados en una red clandestina de tortura y terror. En un remoto y aparentemente idílico pueblo europeo, descubren un hostal aparentemente perfecto donde las fantasías se convierten en pesadillas. Dirigida por Eli Roth, esta película de horror explora los límites de la depravación humana y el precio del deseo insaciable de adrenalina. Prepárate para una experiencia intensa y perturbadora que te hará cuestionar qué tan lejos estarías dispuesto a llegar por emociones extremas.",
-      "shows": [
-        {
-          "showId": 1,
-          "movie": "Hostel",
-          "time": "14:30"
-        },
-        {
-          "showId": 2,
-          "movie": "Hostel",
-          "time": "16:15"
-        },
-        {
-          "showId": 3,
-          "movie": "Hostel",
-          "time": "17:30"
-        },
-        {
-          "showId": 4,
-          "movie": "Hostel",
-          "time": "19:45"
-        },
-        {
-          "showId": 5,
-          "movie": "Hostel",
-          "time": "21:00"
-        }
-      ],
-      "modifiedAt": 1721177170083
+      "modifiedAt": 1721303117259
     },
     {
       "id": 4,
