@@ -8,6 +8,22 @@
       "boughtShows": [
         {
           "movieTitle": "Shrek",
+          "showtime": ""
+        },
+        {
+          "movieTitle": "Toy Story",
+          "showtime": ""
+        },
+        {
+          "movieTitle": "Cars",
+          "showtime": ""
+        },
+        {
+          "movieTitle": "Shrek",
+          "showtime": ""
+        },
+        {
+          "movieTitle": "Shrek",
           "showtime": "20:15"
         },
         {
@@ -24,10 +40,27 @@
       "userName": "Fabriii Lattante",
       "email": "Fabrilat@hotmail.com",
       "password": "123",
-      "boughtShows": [],
+      "boughtShows": [
+        {
+          "movieTitle": "John Wick",
+          "showtime": "20:00"
+        },
+        {
+          "movieTitle": "Shrek",
+          "showtime": "20:15"
+        },
+        {
+          "movieTitle": "Oppenheimer",
+          "showtime": "18:15"
+        },
+        {
+          "movieTitle": "Saw",
+          "showtime": "18:15"
+        }
+      ],
       "type": "client",
       "createdAt": 1719236446445,
-      "modifiedAt": 1720993709044
+      "modifiedAt": 1721327855056
     },
     {
       "id": 0.13617717462716583,
@@ -44,10 +77,19 @@
       "userName": "Pepito Juarez",
       "email": "elpepe@gmail.coms",
       "password": "sapitoJuarez",
-      "boughtShows": [],
+      "boughtShows": [
+        {
+          "movieTitle": "Tierra de osos",
+          "showtime": "20:00"
+        },
+        {
+          "movieTitle": "Cars",
+          "showtime": "15:00"
+        }
+      ],
       "type": "client",
       "createdAt": 1719236517888,
-      "modifiedAt": 1719236517888
+      "modifiedAt": 1721339895309
     },
     {
       "id": 0.0806006029855777,
@@ -106,19 +148,11 @@
         {
           "movieTitle": "Tierra de osos",
           "showtime": "00:30"
-        },
-        {
-          "movieTitle": "Hostel",
-          "showtime": "20:00"
-        },
-        {
-          "movieTitle": "Oppenheimer",
-          "showtime": "18:15"
         }
       ],
       "type": "admin",
       "createdAt": 1719236830697,
-      "modifiedAt": 1721331179506
+      "modifiedAt": 1721308946268
     },
     {
       "id": 0.8989655234641247,
@@ -149,6 +183,16 @@
       "type": "client",
       "createdAt": 1721237769321,
       "modifiedAt": 1721237769321
+    },
+    {
+      "id": 0.6624069727949375,
+      "userName": "Juani777",
+      "email": "juaniAdmin@gmail.com",
+      "password": "123",
+      "boughtShows": [],
+      "type": "admin",
+      "createdAt": 1721344133301,
+      "modifiedAt": 1721344133301
     }
   ],
   "movies": [
@@ -222,7 +266,7 @@
           "time": "00:30"
         }
       ],
-      "modifiedAt": 1721333363383
+      "modifiedAt": 1721302745384
     },
     {
       "id": 3,
@@ -293,8 +337,7 @@
           "movie": "Saw",
           "time": "00:30"
         }
-      ],
-      "modifiedAt": 1721333592731
+      ]
     },
     {
       "id": 5,
