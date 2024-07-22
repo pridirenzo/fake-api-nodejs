@@ -193,14 +193,39 @@
       "type": "admin",
       "createdAt": 1721344133301,
       "modifiedAt": 1721344133301
+    },
+    {
+      "id": 802,
+      "userName": "sysAdmin",
+      "email": "juaniAdmin@gmail.com",
+      "password": "123",
+      "boughtShows": [],
+      "type": "sysadmin",
+      "createdAt": 1721344133201,
+      "modifiedAt": 1721344133401
+    },
+    {
+      "id": 0.8412121922219711,
+      "userName": "Facundo",
+      "email": "facu@gmail.com",
+      "password": "123",
+      "boughtShows": [
+        {
+          "movieTitle": "Tierra de osos",
+          "showtime": "21:45"
+        }
+      ],
+      "type": "client",
+      "createdAt": 1721650540893,
+      "modifiedAt": 1721650787252
     }
   ],
   "movies": [
     {
       "id": 1,
-      "title": "Shrek",
+      "title": "Shrek 2",
       "image": "https://es.web.img3.acsta.net/pictures/14/03/06/10/13/369709.jpg",
-      "rating": 4.9,
+      "rating": 5,
       "runTime": 89,
       "description": "Shrek (2001) - Una aventura animada irreverente que mezcla humor audaz con una historia de autodescubrimiento y amor verdadero. Únete a Shrek, un ogro cascarrabias, y su fiel compañero, un burro parlante, en su misión para rescatar a la princesa Fiona y restaurar la paz en su pantano. Esta película icónica desafía los estereotipos de los cuentos de hadas mientras celebra la importancia de la autenticidad y el valor de ser uno mismo. Prepárate para reír y emocionarte en esta obra maestra animada que encanta a todas las edades.",
       "shows": [
@@ -230,7 +255,7 @@
           "time": "23:30"
         }
       ],
-      "modifiedAt": 1721238214067
+      "modifiedAt": 1721666548943
     },
     {
       "id": 2,
